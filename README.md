@@ -52,5 +52,14 @@ The project generates charts for:
 * Top Customers
 * Monthly Sales Trend
 These charts are stored in the `charts` folder.
+## monthly sales
+![Monthly Sales](charts/monthly_sales_trend.png)
+## sales by category
+![category sales](charts/parent_education.png)
+## Top Customers
+![Top customers](charts/top_customers.png)
+## Top Products
+![top products](charts/top_products.png)
+
 ## Author
 Madhuri
