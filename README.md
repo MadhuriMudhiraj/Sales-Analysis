@@ -4,7 +4,7 @@ This project analyzes retail sales data using Python, Pandas, and Matplotlib. Th
 ## Dataset
 The dataset contains retail sales records with information such as:
 * Order Date
-* Customer Name
+* Customer Name 
 * Region
 * Category
 * Sub-Category
