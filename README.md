@@ -55,7 +55,7 @@ These charts are stored in the `charts` folder.
 ## monthly sales
 ![Monthly Sales](charts/monthly_sales_trend.png)
 ## sales by category
-![category sales](charts/sales_by_region.png)
+![category sales](charts/sales_by_category.png)
 ## Top Customers
 ![Top customers](charts/top_customers.png)
 ## Top Products
